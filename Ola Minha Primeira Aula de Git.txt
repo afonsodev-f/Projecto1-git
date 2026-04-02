@@ -1,0 +1,37 @@
+GIT
+
+Ola Meu Nome é Afonso Dev
+
+MMiha Primeira Aula De Git 
+
+Comandos Git
+
+Para iniciar um novo repositório
+git init
+
+para ver versão actualizada do meu código
+git status
+
+para adiciona um arquivo
+git add "nome do arquivo"
+
+para adiciona mais de 3 elementos num meu repositório
+git add .
+
+Como criar a primeira versão do código com git commit
+git commit -m "commit inciar"
+-m significa a mensagem
+
+Como configura o git num meu computador
+
+git config --global user.email "afonsodev888@gamil.com"
+git config --global user.name "afonsodev-f"
+
+Como fazer subir a primeira versão do código usando
+git push
+
+caso não sabi onde vai ser enviado o nosso código vamos adicionar o link do meu repositório
+
+git remote add origin https://github.com/afonsodev-f/Projecto1-git
+
+agora acabei de definir onde meu código vai ser enviado
